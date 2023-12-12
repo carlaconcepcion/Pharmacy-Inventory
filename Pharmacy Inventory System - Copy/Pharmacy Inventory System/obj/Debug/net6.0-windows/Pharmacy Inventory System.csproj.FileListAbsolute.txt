@@ -1,0 +1,96 @@
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.exe
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.deps.json
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.runtimeconfig.json
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.dll
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.pdb
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.Main.resources
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.Pharmacy.resources
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.Properties.Resources.resources
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.csproj.GenerateResource.cache
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.AssemblyInfoInputs.cache
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.AssemblyInfo.cs
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.dll
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\refint\Pharmacy Inventory System.dll
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.pdb
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.genruntimeconfig.cache
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\ref\Pharmacy Inventory System.dll
+C:\Users\itoz\source\repos\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.LogIn.resources
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.exe
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.deps.json
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.runtimeconfig.json
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.pdb
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.csproj.AssemblyReference.cache
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.LogIn.resources
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.Main.resources
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.Pharmacy.resources
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.Properties.Resources.resources
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.csproj.GenerateResource.cache
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.AssemblyInfoInputs.cache
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.AssemblyInfo.cs
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.csproj.CopyComplete
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\refint\Pharmacy Inventory System.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.pdb
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.genruntimeconfig.cache
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System\Pharmacy Inventory System\obj\Debug\net6.0-windows\ref\Pharmacy Inventory System.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.exe
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.deps.json
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.runtimeconfig.json
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\Pharmacy Inventory System.pdb
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.csproj.AssemblyReference.cache
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.Form1.resources
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.LogIn.resources
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.Pharmacy.resources
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.Properties.Resources.resources
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.csproj.GenerateResource.cache
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.AssemblyInfoInputs.cache
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.AssemblyInfo.cs
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.csproj.CopyComplete
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\refint\Pharmacy Inventory System.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.pdb
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy Inventory System.genruntimeconfig.cache
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\ref\Pharmacy Inventory System.dll
+C:\Users\itoz\OneDrive\Desktop\Pharmacy Inventory System - Copy\Pharmacy Inventory System\obj\Debug\net6.0-windows\Pharmacy_Inventory_System.Main.resources
